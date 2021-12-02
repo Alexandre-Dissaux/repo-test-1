@@ -6,3 +6,4 @@ consignés dans ce fichier.
 ## [Unreleased]
 
 - ANTM-608: Identité du DA non affichée dans le planning
+- a lot of a fun content
